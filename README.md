@@ -20,3 +20,4 @@ Scripts. Bots. Code.
 Создание современных и отзывчивых веб-страниц с использованием HTML5 и CSS3.
 Программирование на JavaScript. 
 Интеграция фронтенда с бэкендом для создания полноценных веб-приложений.
+https://github.com/joeruhacker/joeruhacker/blob/main/6426763e5bc66ea32a61598c05f8cf91.jpg
