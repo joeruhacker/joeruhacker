@@ -21,3 +21,4 @@ Scripts. Bots. Code.
 Программирование на JavaScript. 
 Интеграция фронтенда с бэкендом для создания полноценных веб-приложений.
 
+![565f90bc954fd9fb19e20eb91bf29620](https://github.com/user-attachments/assets/88f2056e-836c-4f14-8a51-9c291f8ec862)
