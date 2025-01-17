@@ -1,24 +1,24 @@
 Scripts. Bots. Code.
 
-Скрипты. Боты. Код. 
+Programmer
 
-Программист 
-Меня зовут Джо Хакер, и я профессионал в области разработки телеграм-ботов, программирования на Python, создания скриптов, а также работы с HTML и JavaScript. 
-Навыки и Компетенции
-1. Разработка Телеграм-ботов:
-Опыт создания и внедрения телеграм-ботов для различных целей, включая автоматизацию, поддержку клиентов, маркетинг и развлечения.
-Использование API Telegram и библиотек Python, таких как telebot.
-Интеграция ботов с различными веб-сервисами и базами данных.
-2. Программирование на Python:
-Глубокие знания языка Python и его применения в разных областях: от веб-разработки до анализа данных.
-Написание эффективного и чистого кода, следуя лучшим практикам и принципам OOP.
-Опыт работы с фреймворками Django и Flask для создания веб-приложений.
-3. Создание Скриптов:
-Разработка скриптов для автоматизации рутинных задач и повышения эффективности рабочих процессов.
-Опыт работы с системами управления версиями, такими как Git.
-4. Работа с HTML и JavaScript:
-Создание современных и отзывчивых веб-страниц с использованием HTML5 и CSS3.
-Программирование на JavaScript. 
-Интеграция фронтенда с бэкендом для создания полноценных веб-приложений.
+My name is Joe Hacker, and I am a professional in the field of Telegram bot development, Python programming, script creation, as well as working with HTML and JavaScript.
 
+Skills and Competencies
+
+Telegram Bot Development:
+Experienced in creating and deploying Telegram bots for various purposes, including automation, customer support, marketing, and entertainment.
+Proficient in using the Telegram API and Python libraries such as Telebot.
+Skilled in integrating bots with various web services and databases.
+Python Programming:
+Deep knowledge of Python and its applications across different domains, from web development to data analysis.
+Expertise in writing efficient and clean code, adhering to best practices and Object-Oriented Programming (OOP) principles.
+Experience with frameworks like Django and Flask for building web applications.
+Script Creation:
+Developing scripts to automate routine tasks and enhance workflow efficiency.
+Proficient in using version control systems, such as Git.
+HTML and JavaScript Development:
+Creating modern and responsive web pages using HTML5 and CSS3.
+Programming in JavaScript to add interactivity and functionality to web applications.
+Integrating frontend with backend systems to develop comprehensive web applications.
 ![565f90bc954fd9fb19e20eb91bf29620](https://github.com/user-attachments/assets/88f2056e-836c-4f14-8a51-9c291f8ec862)
