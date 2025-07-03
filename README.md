@@ -21,4 +21,4 @@ HTML and JavaScript Development:
 Creating modern and responsive web pages using HTML5 and CSS3.
 Programming in JavaScript to add interactivity and functionality to web applications.
 Integrating frontend with backend systems to develop comprehensive web applications.
-![565f90bc954fd9fb19e20eb91bf29620](https://github.com/user-attachments/assets/88f2056e-836c-4f14-8a51-9c291f8ec862)
+![565f90bc954fd9fb19e20eb91bf29620](https://github.com/user-attachments/assets/88f2056e-836c-4f14-8a51-9c291f8ec862) 
