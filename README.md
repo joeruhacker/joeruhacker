@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Joe Hacker
+# <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="40"> Joe Hacker
 
 ### Scripts. Bots. Automation.
 
