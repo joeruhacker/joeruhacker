@@ -4,101 +4,104 @@
 
 ### Scripts. Bots. Automation.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Telegram+Bot+Developer;Python+Automation+Engineer;OpenAI+%26+AI+Integrations;Web+Scraping+%26+Parsers;Linux+%26+VPS+Deployment;Scripts.+Bots.+Code." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Telegram+Bot+Developer;Python+Automation+Engineer;OpenAI+API+Integrations;Web+Scraping+%26+Parsers;Linux+%26+VPS+Deployment;Scripts.+Bots.+Code." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=joeruhacker&style=for-the-badge&color=blueviolet" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="35"> About Me
 
-I am a developer specializing in:
+bash > Telegram Bot Developer > Python Automation Engineer > AI Integration Specialist > Linux/VPS Systems > Web Scraping & Automation 
 
-- Telegram bot systems
-- Python automation
-- AI integrations
-- Web scraping
-- Backend systems
-- Linux/VPS deployment
-- API integrations
-- Automation tools
+I build production-ready systems:
 
-I build production-ready bots, parsers, automation systems and AI-powered solutions.
+- Telegram bots
+- AI assistants
+- Automation systems
+- Backend APIs
+- Web scrapers
+- Python scripts
+- VPS deployments
 
 ---
 
-# ⚙️ Core Stack
+# <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> Core Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,django,js,html,css,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flask,django,js,html,css,linux,git,github,vscode,docker" />
 
 </div>
 
 ---
 
-# 🤖 Main Specialization
-
-## Telegram Bots
+# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35"> Telegram Bots
 
 - Telegram API
 - Telebot
-- Automation bots
-- Customer support bots
-- Business automation
-- Marketing bots
-- AI assistants
-- Payment integrations
+- AI Assistants
+- Automation Bots
+- CRM Systems
+- Payment Integrations
+- Customer Support Bots
+- Marketing Automation
 
 ---
 
-## 🐍 Python Development
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Python Development
 
-- Backend systems
-- Automation scripts
-- API integrations
-- Data processing
-- OOP architecture
 - Flask & Django
-- Webhook systems
-- JSON/YAML configurations
+- Automation Scripts
+- REST APIs
+- Webhooks
+- OOP Architecture
+- JSON/YAML Systems
+- Backend Services
+- Async Workflows
 
 ---
 
-## 🌐 Web Scraping & Automation
+# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> Web Scraping & Automation
 
-- Dynamic parsers
-- Data extraction
-- Automation workflows
-- Browser automation
-- Business process automation
-- AI-powered parsing
+- Dynamic Parsers
+- Browser Automation
+- Selenium Systems
+- Data Extraction
+- AI Parsing
+- Workflow Automation
+- Background Workers
 
 ---
 
-## 🧠 AI Integrations
+# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35"> AI Integrations
 
 - OpenAI API
-- AI chatbots
-- Prompt systems
-- AI automation
-- AI assistants
-- Intelligent workflows
+- AI Chatbots
+- Prompt Systems
+- GPT Integrations
+- Intelligent Workflows
+- AI Automation
 
 ---
 
-## 🖥 Linux & Deployment
+# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"> Linux & Deployment
 
-- VPS administration
-- Systemd services
-- GitHub Pages
+- Ubuntu VPS
+- Systemd Services
 - Cloudflare
-- Server deployment
-- Monitoring & maintenance
+- GitHub Pages
+- Nginx
+- Server Monitoring
+- Deployment Automation
 
 ---
 
-# 🚀 Technologies
+# ⚙️ Technologies
 
 <div align="center">
 
@@ -115,20 +118,20 @@ I build production-ready bots, parsers, automation systems and AI-powered soluti
 
 # ⚡ Example Workflow
 
-```python
-class JoeHacker:
+python class JoeHacker:      def build(self):         return [             "Telegram Bots",             "Automation Systems",             "AI Integrations",             "Python Scripts",             "Web Scrapers",             "Backend APIs"         ]  developer = JoeHacker()  for project in developer.build():     print(f"🚀 Building: {project}") 
 
-    def build(self):
-        return [
-            "Telegram Bots",
-            "Automation Systems",
-            "AI Integrations",
-            "Python Scripts",
-            "Web Scrapers",
-            "Backend APIs"
-        ]
+---
 
-developer = JoeHacker()
+<div align="center">
 
-for project in developer.build():
-    print(f"🚀 Building: {project}")
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Scripts. Bots. Code.
+
+</div>
