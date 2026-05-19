@@ -6,14 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Telegram+Bot+Developer;Python+Automation+Engineer;OpenAI+%26+AI+Integrations;Web+Scraping+%26+Parsers;Linux+%26+VPS+Deployment;Scripts.+Bots.+Code." />
 
-<br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="850"/>
-
 </div>
 
 ---
