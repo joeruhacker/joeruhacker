@@ -8,9 +8,11 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=joeruhacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joeruhacker&theme=tokyonight&hide_border=true&background=00000000" />
+<br><br>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="850"/>
 
 </div>
 
