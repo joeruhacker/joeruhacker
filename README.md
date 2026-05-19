@@ -101,7 +101,7 @@ I build production-ready systems:
 
 ---
 
-# ⚙️ Technologies
+# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35"> Technologies
 
 <div align="center">
 
@@ -116,7 +116,7 @@ I build production-ready systems:
 
 ---
 
-# ⚡ Example Workflow
+# <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="35"> Example Workflow
 
 python class JoeHacker:      def build(self):         return [             "Telegram Bots",             "Automation Systems",             "AI Integrations",             "Python Scripts",             "Web Scrapers",             "Backend APIs"         ]  developer = JoeHacker()  for project in developer.build():     print(f"🚀 Building: {project}") 
 
